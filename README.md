@@ -1,4 +1,9 @@
+## 構築されるコンテナ
+
+- nginx latest
+- php 8.0.12
+- mysql 8.0
+
 ## pull後にやるべきこと
 
-*composer-nameを変える（他のdockerと被る為）
-*default.confのDcomumentRootの変更
+- default.confのDcomumentRootの変更
